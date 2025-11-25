@@ -159,4 +159,4 @@ Legal Hackers: Help us map the next municipality in the Legislative Compiler.
 
 Partners: Interested in funding or piloting? For questions or collaboration:
 
-Nicholas Cerbone, Executive Director: ncerbone@civicos.institute.org
+Nicholas Cerbone, Executive Director: ncerbone@civicos-institute.org
