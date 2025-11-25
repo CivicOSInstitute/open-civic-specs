@@ -15,6 +15,32 @@ do not include proprietary implementation details of the Logos Engine.
 © 2025 CivicOS Institute. All Rights Reserved.
 Author: Nicholas A. Cerbone.
 
+License
+All specifications in this repository are released under the Apache License, Version 2.0.
+
+This license permits reproduction, distribution, and creation of derivative works while
+providing explicit patent protections for open-standards content.
+
+Disclaimer
+These documents describe open technical standards for research and interoperability. 
+They do NOT include proprietary source code, algorithms, or operational components 
+of the Logos Engine. The CivicOS Institute provides no guarantee of correctness, 
+completeness, or regulatory compliance for any third-party implementation.
+
+Patent Notice
+No patent rights are granted, implied, or licensed by publication of these specifications. 
+All proprietary implementations of the Logos Engine—including compilers, interpreters, 
+DRK environments, and workflow engines—remain the intellectual property of their authors.
+
+Security Scope
+These documents outline conceptual logic structures and reference architectures. 
+They do not describe infrastructure security, deployment practices, or compliance controls. 
+Implementers are responsible for their own security and governance requirements.
+
+Document Versioning
+Current Version: v2.0.0-MASTER  
+Future revisions will be published to this repository.
+
 Overview
 
 This repository hosts the open technical standards, specifications, and reference formats that define the CivicOS ecosystem. These documents establish a shared, interoperable foundation for transforming how municipalities, institutions, and communities structure, interpret, and operate public-service workflows.
