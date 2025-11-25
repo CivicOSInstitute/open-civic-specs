@@ -150,6 +150,12 @@ Contact & Governance
 CivicOS Institute
 A nonprofit steward for open civic-technology standards
 
-For questions or collaboration:
+Get Involved The CivicOS Institute is a community-driven initiative.
 
-Executive Director: ncerbone@civicos.institute.org
+Engineers: Check out our [Issues] tab to contribute to the schema definitions.
+
+Legal Hackers: Help us map the next municipality in the Legislative Compiler.
+
+Partners: Interested in funding or piloting? For questions or collaboration:
+
+Nicholas Cerbone, Executive Director: ncerbone@civicos.institute.org
