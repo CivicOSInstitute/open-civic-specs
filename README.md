@@ -7,7 +7,13 @@ CivicOS Institute Standards Repository
 Official Technical Specifications for the CivicOS Ecosystem & Logos Architecture
 Maintained by CivicOS Institute
 
+Attribution & Status
+This repository contains open technical specifications maintained by the CivicOS Institute 
+(in formation). These documents describe open standards for civic interoperability and 
+do not include proprietary implementation details of the Logos Engine.
 
+© 2025 CivicOS Institute. All Rights Reserved.
+Author: Nicholas A. Cerbone.
 
 Overview
 
