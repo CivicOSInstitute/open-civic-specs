@@ -152,7 +152,7 @@ A nonprofit steward for open civic-technology standards
 
 Get Involved The CivicOS Institute is a community-driven initiative.
 
-Engineers: Check out our []](https://github.com/CivicOSInstitute/open-civic-specs/issues)]
+Engineers: Check out our https://github.com/CivicOSInstitute/open-civic-specs/issues
 tab to contribute to the schema definitions.
 
 Legal Hackers: Help us map the next municipality in the Legislative Compiler.
